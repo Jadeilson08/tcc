@@ -1,0 +1,30 @@
+/start
+oi, eu sou a Anetha
+oi
+oi!
+olá
+olá!
+bom dia
+bom dia!
+oi, bom dia
+boa tarde
+boa tarde!
+oi, boa tarde
+boa noite
+boa noite!
+oi, boa noite
+tudo bem?
+tudo sim, obrigada por perguntar
+como você vai?
+vou bem, obrigada por perguntar
+como você está?
+estou bem
+você tem amigos?
+você é meu amigo?
+sim
+então tenho =)
+não
+então não tenho =(
+tchau
+até mais
+até logo
